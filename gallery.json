@@ -1,0 +1,15 @@
+[
+
+{
+	"work" : 1,
+	"src" : "../../images/pic03.jpg",
+	"alt" : "Work 1"
+},
+
+{
+	"work" : 2,
+	"src" : "../../images/pic01.jpg",
+	"alt" : "Work 2"
+}
+
+]
